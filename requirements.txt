@@ -1,0 +1,6 @@
+flet>=0.84.0
+matplotlib>=3.10.6
+numpy>=2.3.2
+pandas>=2.3.2
+mysql-connector-python>=9.4.0
+pillow>=11.3.0
